@@ -13,4 +13,4 @@
 **2** | **Маркетинг** |  Разработайте модель для группировки клиентов по кластерам. | **Numpy, Pandas, seaborn, matplotlib, sklearn, PCA, Autoencoder, tensorflow, SGD**
 **3** | **Продажи** |  Разработайте модель анлиза временного ряда для прогназирования продаж. | **Numpy, Pandas, seaborn, matplotlib, Prophet**
 **4** | **Производство** |  Разработайте модель выявления и кассификации дефектов листового металла по фотографиям.| **Numpy, Pandas, seaborn, matplotlib, tensorflow, sklearn**
-
+**5** | **Связь с общественностью** |  Разработайте модель классификации коментариев пользователей.| **Numpy, Pandas, seaborn, matplotlib, sklearn**
